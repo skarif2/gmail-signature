@@ -1,6 +1,13 @@
 <h1 >Gmail Signature &nbsp;<img width="25" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"></h1>
 Having a nice looking signature in your email will always make it more professional and put an impression that you care about things :+1:
 
+<br />
+<br />
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/5141132/50740487-59b49500-1219-11e9-99ad-dbad6729875b.png">
+</div>
+
 ## Setup Signature
 
 - Clone the repo
