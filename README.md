@@ -24,3 +24,10 @@ $ git clone git@github.com:skarif2/gmail-signature.git
 - Press the comose button and you will see your signature populated already <img src="https://user-images.githubusercontent.com/5141132/50740355-6d5efc00-1217-11e9-9d06-46a8cdf36c05.png">
 
 **Note:** There is a limit of 10,000 characters in Gmail Signature. Make sure you don't add too much stuff :wink:
+
+## License
+
+This repo available under the [MIT license](https://github.com/skarif2/gmail-signature/blob/master/LICENSE).
+
+---
+<h4 align="center">Made with&nbsp; 💖 &nbsp;by Sk Arif.</h4>
